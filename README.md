@@ -1,3 +1,6 @@
+#ZERODHA
+
+
 This is a clone of the Zerodha trading platform, created for learning purposes. Zerodha is a popular Indian brokerage firm that allows users to trade stocks, commodities, and more. This project is built to simulate the core features of the Zerodha platform, focusing on web technologies such as HTML, CSS, JavaScript, and backend technologies like Python/Node.js and MySQL.
 
 Table of Contents
